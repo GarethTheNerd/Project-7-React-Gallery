@@ -1,8 +1,8 @@
 To run this app, a flickr API key needs to be obtained and placed in config.js in the root of the src folder. like below:
 
-### const apiKey = 'KEY GOES HERE!';
+### `const apiKey = 'KEY GOES HERE!';
 
-### export default apiKey;
+### export default apiKey;`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
